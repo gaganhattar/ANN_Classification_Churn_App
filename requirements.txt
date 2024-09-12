@@ -1,0 +1,18 @@
+tensorflow==2.17.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+
+# Note: to seup locan project env.
+# To create local enc, like node_modules perproject
+# conda create -p  venv python==3.12
+
+# Activating the conda environment
+# conda activate venv (where env is the folrder containing all conda/python deps installed
+# pip install -r requirements.txt (To install all dependancies for local env)
+# To deactivate
+# conda deactivate
